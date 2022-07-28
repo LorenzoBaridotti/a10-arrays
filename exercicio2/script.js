@@ -11,4 +11,4 @@ console.log('Segundo elemento da segunda array: ', arrayString[1])
 console.log('Terceiro elemento da terceira array: ', arrayTipos[2])
 
 console.log('Contém 7? ', arrayNumber.includes(7))
-console.log('Comtém Flamengo vai ganhar? ', arrayTipos.includes('Flamengo vai ganhar'))
+console.log('Contém Flamengo vai ganhar? ', arrayTipos.includes('Flamengo vai ganhar'))
